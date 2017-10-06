@@ -9,3 +9,13 @@ title = "Tasty Licks"
     name = "About"
     url  = "/about"
     weight = 1
+
+[[menu.main]]
+    name = "Food"
+    url  = "/food"
+    weight = 1
+
+[[menu.main]]
+    name = "Side Dishes"
+    url  = "/sdishes"
+    weight = 1
